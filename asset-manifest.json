@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OscarReact/static/css/main.2286f01c.chunk.css",
+    "main.js": "/OscarReact/static/js/main.f055000d.chunk.js",
+    "main.js.map": "/OscarReact/static/js/main.f055000d.chunk.js.map",
+    "runtime-main.js": "/OscarReact/static/js/runtime-main.42b3e998.js",
+    "runtime-main.js.map": "/OscarReact/static/js/runtime-main.42b3e998.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/OscarReact/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.f1deb22c.chunk.js": "/OscarReact/static/js/2.f1deb22c.chunk.js",
+    "static/js/2.f1deb22c.chunk.js.map": "/OscarReact/static/js/2.f1deb22c.chunk.js.map",
+    "index.html": "/OscarReact/index.html",
+    "precache-manifest.3a5fd8b9b92e115af44d35542fe80f75.js": "/OscarReact/precache-manifest.3a5fd8b9b92e115af44d35542fe80f75.js",
+    "service-worker.js": "/OscarReact/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/OscarReact/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.2286f01c.chunk.css.map": "/OscarReact/static/css/main.2286f01c.chunk.css.map",
+    "static/js/2.f1deb22c.chunk.js.LICENSE.txt": "/OscarReact/static/js/2.f1deb22c.chunk.js.LICENSE.txt",
+    "static/media/oscar.png": "/OscarReact/static/media/oscar.94bac9cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b3e998.js",
+    "static/css/2.a43b59a1.chunk.css",
+    "static/js/2.f1deb22c.chunk.js",
+    "static/css/main.2286f01c.chunk.css",
+    "static/js/main.f055000d.chunk.js"
+  ]
+}
